@@ -55,3 +55,14 @@ body{
 	margin-right: 0px !important;
 	margin-left: 0px !important;
 }
+
+.gambar-konten{
+	width: 100%;
+	max-width: 500px;
+}
+
+.gambar-jaraknya{
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 1px;
+}
