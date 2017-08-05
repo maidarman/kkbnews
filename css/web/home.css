@@ -1,0 +1,52 @@
+body{
+	font-size: 14px;
+}
+.navbar-header{
+	float: right;
+}
+.image-logo{
+	/*width: 0;*/
+	height: 50px;
+	border-radius: 50%;
+}
+ .navbar-size{
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ }
+ .btn-man{
+ 	border:2px solid #b3b3b3;
+ 	box-sizing: content-box;
+ 	padding: 10px;
+ }
+#inline {
+    margin: 15px auto;
+    padding: 0;
+}
+
+#inline li {
+    float: left;
+    list-style: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.menu-size{
+	padding: 5px 5px;
+}
+.navbar-daftar-menu{
+	margin-top: 5px;
+	/*box-shadow: 1px 1px 1px 1px rgba(46,61,73,0.15);*/
+	/*border-bottom: 2px solid #f0f0f0;*/
+	border-top: 3px solid #f0f0f0;
+
+}
+
+.size-icon{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 40px;
+
+}
+#size-icon-sosmed{
+	padding-right: 10px;
+}
