@@ -19,7 +19,7 @@ body{
  	padding: 10px;
  }
 #inline {
-    margin: 15px auto;
+    margin: 5px auto;
     padding: 0;
 }
 
@@ -27,10 +27,10 @@ body{
     float: left;
     list-style: none;
     margin-left: 15px;
-    margin-right: 15px;
+    margin-right: 0px;
 }
 .menu-size{
-	padding: 5px 5px;
+	padding: 10px 5px;
 }
 .navbar-daftar-menu{
 	margin-top: 5px;
@@ -49,4 +49,9 @@ body{
 }
 #size-icon-sosmed{
 	padding-right: 10px;
+}
+
+.row{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
 }
